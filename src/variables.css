@@ -1,0 +1,12 @@
+:root {
+    --color-primary-0: #228B22; /* Main Primary color */
+    --color-primary-1: #68C468;
+    --color-primary-2: #3CA43C;
+    --color-primary-3: #0C700C;
+    --color-primary-4: #004D00;
+    --color-complement-0: #AE2A2A;	/* Main Complement color */
+    --color-complement-1: #F58282;
+    --color-complement-2: #CC4B4B;
+    --color-complement-3: #8B0F0F;
+    --color-complement-4: #600000;
+}

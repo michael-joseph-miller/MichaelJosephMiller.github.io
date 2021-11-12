@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio for Michael Miller",
+  "scripts": {
+    "dev": "npm run del-dist && parcel src/index.html",
+    "build": "npm run del-dist && parcel build src/index.html",
+    "del-dist": "rm -rf dist/",
+    "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelJosephMiller/MichaelJosephMiller.github.io.git"
+  },
+  "author": "Michael Joseph Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelJosephMiller/MichaelJosephMiller.github.io/issues"
+  },
+  "homepage": "https://github.com/MichaelJosephMiller/MichaelJosephMiller.github.io#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1",
+    "push-dir": "^0.4.1"
+  }
+}
