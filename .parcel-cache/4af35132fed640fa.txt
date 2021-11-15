@@ -1,7 +1,7 @@
 15803
-68/home/michaeljosephmiller/code/portfolio/dist/index.32f056ea.css.map1636970768031734580 0
-92/home/michaeljosephmiller/code/portfolio/dist/tech-documentation-page-creenshot.69c29faf.png1636970766809734547 0
-45/home/michaeljosephmiller/code/portfolio/dist1636970768033734580 1
+68/home/michaeljosephmiller/code/portfolio/dist/index.32f056ea.css.map1636971805041762844 0
+92/home/michaeljosephmiller/code/portfolio/dist/tech-documentation-page-creenshot.69c29faf.png1636971805012762843 0
+45/home/michaeljosephmiller/code/portfolio/dist1636971805043762844 1
 63/home/michaeljosephmiller/code/portfolio/node_modules/.bin/jake1636970723910733377 0
 64/home/michaeljosephmiller/code/portfolio/node_modules/.bin/which1636970723909733377 0
 63/home/michaeljosephmiller/code/portfolio/node_modules/.bin/svgo1636970723908733377 0
@@ -2311,7 +2311,7 @@
 92/home/michaeljosephmiller/code/portfolio/node_modules/core-js/modules/es.number.parse-int.js1636970716482733175 0
 94/home/michaeljosephmiller/code/portfolio/node_modules/core-js/modules/es.number.parse-float.js1636970716469733175 0
 75/home/michaeljosephmiller/code/portfolio/node_modules/is-regex/CHANGELOG.md1636970707820732939 0
-82/home/michaeljosephmiller/code/portfolio/dist/tribute-page-screenshot.0c4fa428.png1636970766800734546 0
+82/home/michaeljosephmiller/code/portfolio/dist/tribute-page-screenshot.0c4fa428.png1636971805010762843 0
 92/home/michaeljosephmiller/code/portfolio/node_modules/es-abstract/2017/SameValueNonNumber.js1636970718506733230 0
 77/home/michaeljosephmiller/code/portfolio/node_modules/postcss/lib/postcss.mjs1636970710972733025 0
 74/home/michaeljosephmiller/code/portfolio/node_modules/@babel/types/scripts1636970714363733117 1
@@ -2944,7 +2944,7 @@
 99/home/michaeljosephmiller/code/portfolio/node_modules/jake/test/integration/jakelib/publish.jake.js1636970711696733045 0
 85/home/michaeljosephmiller/code/portfolio/node_modules/core-js/features/reflect/set.js1636970720651733289 0
 79/home/michaeljosephmiller/code/portfolio/node_modules/whatwg-encoding/README.md1636970704406732846 0
-81/home/michaeljosephmiller/code/portfolio/dist/survey-form-screenshot.742b56d3.png1636970766806734547 0
+81/home/michaeljosephmiller/code/portfolio/dist/survey-form-screenshot.742b56d3.png1636971805012762843 0
 98/home/michaeljosephmiller/code/portfolio/node_modules/core-js/features/reflect/set-prototype-of.js1636970720640733288 0
 90/home/michaeljosephmiller/code/portfolio/node_modules/core-js/features/reflect/own-keys.js1636970720395733282 0
 72/home/michaeljosephmiller/code/portfolio/node_modules/create-hash/md5.js1636970706093732892 0
@@ -3346,7 +3346,7 @@
 94/home/michaeljosephmiller/code/portfolio/node_modules/core-js/stable/string/virtual/pad-end.js1636970720418733282 0
 73/home/michaeljosephmiller/code/portfolio/node_modules/create-hash/test.js1636970706784732911 0
 84/home/michaeljosephmiller/code/portfolio/node_modules/core-js/es/symbol/match-all.js1636970720271733278 0
-82/home/michaeljosephmiller/code/portfolio/dist/landing-page-screenshot.25f5f87c.png1636970766808734547 0
+82/home/michaeljosephmiller/code/portfolio/dist/landing-page-screenshot.25f5f87c.png1636971805012762843 0
 113/home/michaeljosephmiller/code/portfolio/node_modules/jsdom/lib/jsdom/living/generated/HTMLTableSectionElement.js1636970715264733142 0
 95/home/michaeljosephmiller/code/portfolio/node_modules/core-js/es/symbol/is-concat-spreadable.js1636970719923733269 0
 72/home/michaeljosephmiller/code/portfolio/node_modules/ecc-jsbn/README.md1636970704152732839 0
@@ -4455,7 +4455,7 @@
 75/home/michaeljosephmiller/code/portfolio/node_modules/@parcel/codeframe/lib1636970705766732883 1
 106/home/michaeljosephmiller/code/portfolio/node_modules/@parcel/runtime-js/src/helpers/worker/wasm-loader.js1636970711860733049 0
 92/home/michaeljosephmiller/code/portfolio/node_modules/source-map-js/dist/source-map.debug.js1636970710661733016 0
-70/home/michaeljosephmiller/code/portfolio/dist/placeholder.e8b1f182.jpg1636970766809734547 0
+70/home/michaeljosephmiller/code/portfolio/dist/placeholder.e8b1f182.jpg1636971805013762843 0
 89/home/michaeljosephmiller/code/portfolio/node_modules/@parcel/runtime-js/src/helpers/node1636970711796733047 1
 72/home/michaeljosephmiller/code/portfolio/node_modules/@parcel/plugin/lib1636970704240732841 1
 99/home/michaeljosephmiller/code/portfolio/node_modules/core-js/stable/symbol/is-concat-spreadable.js1636970719925733269 0
@@ -9020,7 +9020,7 @@
 89/home/michaeljosephmiller/code/portfolio/node_modules/core-js/stable/number/is-integer.js1636970719977733270 0
 72/home/michaeljosephmiller/code/portfolio/node_modules/debug/package.json1636970706482732902 0
 101/home/michaeljosephmiller/code/portfolio/node_modules/es-abstract/2016/GetPrototypeFromConstructor.js1636970715909733159 0
-64/home/michaeljosephmiller/code/portfolio/dist/index.32f056ea.css1636970768016734580 0
+64/home/michaeljosephmiller/code/portfolio/dist/index.32f056ea.css1636971805015762843 0
 80/home/michaeljosephmiller/code/portfolio/node_modules/@swc/helpers/lib/_throw.js1636970711802733047 0
 107/home/michaeljosephmiller/code/portfolio/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFrameElement-impl.js1636970717110733192 0
 94/home/michaeljosephmiller/code/portfolio/node_modules/core-js/features/string/code-point-at.js1636970714261733115 0
@@ -12385,7 +12385,7 @@
 79/home/michaeljosephmiller/code/portfolio/node_modules/highlight.js/lib/index.js1636970714502733121 0
 79/home/michaeljosephmiller/code/portfolio/node_modules/highlight.js/package.json1636970716222733168 0
 83/home/michaeljosephmiller/code/portfolio/node_modules/highlight.js/types/index.d.ts1636970717067733191 0
-56/home/michaeljosephmiller/code/portfolio/dist/index.html1636970768015734580 0
+56/home/michaeljosephmiller/code/portfolio/dist/index.html1636971805014762843 0
 75/home/michaeljosephmiller/code/portfolio/node_modules/lodash/_baseIsDate.js1636970712138733057 0
 73/home/michaeljosephmiller/code/portfolio/node_modules/hmac-drbg/README.md1636970704644732852 0
 85/home/michaeljosephmiller/code/portfolio/node_modules/is-shared-array-buffer/index.js1636970705533732877 0
@@ -14432,7 +14432,7 @@
 83/home/michaeljosephmiller/code/portfolio/node_modules/nanoid/url-alphabet/index.cjs1636970707345732926 0
 73/home/michaeljosephmiller/code/portfolio/node_modules/call-bind/.eslintrc1636970704191732840 0
 81/home/michaeljosephmiller/code/portfolio/node_modules/to-regex-range/package.json1636970703517732822 0
-40/home/michaeljosephmiller/code/portfolio1636970766568734540 1
+40/home/michaeljosephmiller/code/portfolio1636971804594762832 1
 86/home/michaeljosephmiller/code/portfolio/node_modules/nanoid/url-alphabet/package.json1636970710099733001 0
 64/home/michaeljosephmiller/code/portfolio/node_modules/nanoid/bin1636970707613732933 1
 73/home/michaeljosephmiller/code/portfolio/node_modules/nanoid/index.dev.js1636970708764732965 0
