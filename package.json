@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "portfolio for Michael Miller",
   "scripts": {
-    "dev": "npm run del-dist && parcel src/index.html",
-    "build": "npm run del-dist && parcel build src/index.html",
+    "dev": "npm run del-dist && parcel src/index.html --public-url ./",
+    "build": "npm run del-dist && parcel build src/index.html --public-url ./",
     "del-dist": "rm -rf dist/",
     "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
   },
